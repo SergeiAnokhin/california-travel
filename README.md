@@ -1,6 +1,6 @@
 # The Journey through California
 
-## [Project Link](https://sergeianokhin.github.io/russian-travel/)
+## [Project Link](https://sergeianokhin.github.io/california-travel/)
 
 ## Tech Stack
 
